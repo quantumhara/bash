@@ -7,4 +7,5 @@ echo "Type your name"
 
 read NAME
 
-echo -e "Hello World! Nice to see you $NAME!"
+echo -e "Hello World! Nice to see you \
+$NAME!"
